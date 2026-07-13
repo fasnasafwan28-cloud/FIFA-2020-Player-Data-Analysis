@@ -42,25 +42,6 @@ The notebook includes various charts such as:
 
 ---
 
-## 📌 Dataset
-
-The dataset contains FIFA 2020 player information including:
-
-- Name
-- Age
-- Nationality
-- Club
-- Position
-- Overall Rating
-- Potential
-- Wage
-- Value
-- Height
-- Weight
-- Skill Attributes
-
----
-
 ## 🎯 Project Objectives
 
 - Understand player performance.
